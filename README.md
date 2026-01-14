@@ -1,52 +1,60 @@
-# RaymondHibbs
-Profile_AboutMe
+## 👋 Hi there, I’m Raymond Hibbs
 
-# Hi there, I’m Raymond Hibbs
+**Director of IT | Game Developer**
 
-**Director of IT | Game Developer**  
-
-I’m passionate about blending technology with creativity—whether it’s managing enterprise IT systems, building home labs, or developing co-op pirate games. I enjoy solving tough technical challenges and am always learning something new, from AWS cloud infrastructure to game design in Unity and Godot.  
+I blend enterprise IT, infrastructure, and automation with creative development.  
+From managing production systems and homelabs to designing co-op games, I enjoy solving real-world technical problems and building systems that scale.
 
 ---
 
-### **What I’m Working On**
-- Building a co-op pirate game with 16+ roles and legendary enemies like the Kraken and sirens.  
-- Designing a home network with VLANs, Pi-hole, and a rugged Windows domain environment.  
-- Learning **AWS** daily to become a Cloud Engineer (30 min/day goal).  
+### 🔭 What I’m Working On
+- 🏴‍☠️ Building a co-op pirate game with 16+ roles and legendary enemies like the Kraken and sirens  
+- 🧠 Designing a home network with VLANs, Pi-hole, and a rugged Windows domain environment with cloud-based storage and remote access
+- ☁️ Learning AWS daily (30 min/day) with the goal of transitioning deeper into cloud engineering
 
 ---
 
-### **Tech Stack & Tools**
-- **Languages:** Python, Java, JavaScript, C#
-- **Game Engines:** Unity, Godot
-- **Cloud & DevOps:** AWS (in progress), Docker, Git, Azure, CI/CD pipelines, Jenkins
-- **IT & Networking:** SonicWall firewalls, Cisco and Ubiquiti Equipment, Ruckus APs, VLANs, Pi-hole
-- **Audio Network Software:** BlueSound (BluOS), Q-SYS
-- **Project Management:** Jira, Agile/Scrum  
+### 🛠️ Tech Stack & Tools
+
+**Languages**
+- Python, Java, JavaScript, C#, C++, Assembly
+
+**Game Development**
+- Unity, Godot
+
+**Cloud & DevOps**
+- AWS, Git, Azure, Entra, CI/CD, Jenkins
+- Proxmox VE, ESXi, Docker
+
+**IT & Networking**
+- SonicWall firewalls
+- Cisco, Meraki, Ubiquiti, Netgear, Ruckus
+- VLANs, PacketFence, Pi-hole
+
+**AV & Systems**
+- BlueSound (BluOS), Q-SYS
+
+**Project Management**
+- Jira, Monday.com, Trello, ClickUp, MS Project, Agile / Scrum
 
 ---
 
-### **Pinned Projects**
-- [**Pirate Co-op Game**](#) _(coming soon)_ – A 10+ player co-op strategy game with unique roles and enemies.  
-- [**Pi-hole Network Setup**](#) _(guide coming soon)_ – My ad-blocking and network segmentation project.  
-- [**AWS Learning Journal**](#) – Notes, scripts, and small cloud experiments.  
+### 🚀 Focused Projects
+- 🏴‍☠️ **Pirate Co-op Game** – 10+ player co-op strategy game with unique roles and enemies *(in development)*  
+- 🌐 **Homelab Network Setup** – Network segmentation and homelab project *(documentation in progress)*  
+- ☁️ **AWS Learning Journal** – Notes, scripts, and small cloud experiments  
 
 ---
 
-### **What I’m Learning**
-- AWS cloud engineering & solutions architecture.
-- Managing Jira Projects for Cloud (ACP-620)
-- Advanced Git workflows for team projects.  
-- Game design patterns for 2D & top-down pixel art games.  
+### 📚 What I’m Learning
+- AWS Cloud Engineering & Solutions Architecture  
+- Jira Cloud Project Administration (ACP-620)  
+- Advanced Git workflows for team-based development  
+- Game design patterns for 2D & top-down pixel art games  
 
 ---
 
-### 📫 **Let’s Connect**
-- **LinkedIn:** [linkedin.com/in/raymond-hibbs](https://www.linkedin.com/in/raymond-hibbs)  
-- **Portfolio:** [hibbs.dev](https://hibbs.dev) _(coming soon)_  
-- **Email:** raymond.hibbs@gmail.com 
-
----
-
-> “Creativity is intelligence having fun.” – Albert Einstein  
-
+### 📫 Let’s Connect
+- LinkedIn: https://linkedin.com/in/raymond-hibbs
+- Portfolio: https://hibbs.dev *(coming soon)*
+- Email: raymond.hibbs@gmail.com
